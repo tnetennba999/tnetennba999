@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @tnetennba999
-- 👀 I’m interested in stargazing and detective game and fiction.
-- 🌱 I’m currently learning machine learning with python.
 
 <!---
 tnetennba999/tnetennba999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
